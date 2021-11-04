@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">News</string>
+    <string name="tab_text_2">Favorites</string>
+    <string name="failed_to_get_news_message">Failed to get news</string>
+    <string name="no_favorite_news_message">No favorite news</string>
+</resources>
